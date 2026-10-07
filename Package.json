@@ -1,0 +1,13 @@
+{
+  "name": "gta-cheat-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo web-ready"
+  },
+  "dependencies": {
+    "@capacitor/core": "^8.0.0",
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/cli": "^8.0.0"
+  }
+}
